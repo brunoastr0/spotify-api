@@ -1,2 +1,2 @@
 # spotify-api
-Spotify api with python
+Using spotify api with python
